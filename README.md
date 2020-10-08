@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/hema-bhagnani-607090189" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hema-bhagnani-607090189" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/hema.bhagnani/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/hema.bhagnani/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/hemabhagnani" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/hemabhagnani" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/hemabhagnani" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/hemabhagnani" height="30" width="40" /></a><br><br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
