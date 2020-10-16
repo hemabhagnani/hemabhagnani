@@ -19,10 +19,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#43](https://github.com/codesankalp/dsalgo/issues/43) in [codesankalp/dsalgo](https://github.com/codesankalp/dsalgo)
-2. 🎉 Merged PR [#14](https://github.com/hemabhagnani/Brew_Crew/pull/14) in [hemabhagnani/Brew_Crew](https://github.com/hemabhagnani/Brew_Crew)
-3. ❌ Reopened PR [#43](https://github.com/codesankalp/dsalgo/pull/43) in [codesankalp/dsalgo](https://github.com/codesankalp/dsalgo)
-4. ❌ Closed PR [#43](https://github.com/codesankalp/dsalgo/pull/43) in [codesankalp/dsalgo](https://github.com/codesankalp/dsalgo)
-5. 💪 Opened PR [#6](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB/pull/6) in [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
+2. 🗣 Commented on [#43](https://github.com/codesankalp/dsalgo/issues/43) in [codesankalp/dsalgo](https://github.com/codesankalp/dsalgo)
+3. 🎉 Merged PR [#14](https://github.com/hemabhagnani/Brew_Crew/pull/14) in [hemabhagnani/Brew_Crew](https://github.com/hemabhagnani/Brew_Crew)
+4. ❌ Reopened PR [#43](https://github.com/codesankalp/dsalgo/pull/43) in [codesankalp/dsalgo](https://github.com/codesankalp/dsalgo)
+5. ❌ Closed PR [#43](https://github.com/codesankalp/dsalgo/pull/43) in [codesankalp/dsalgo](https://github.com/codesankalp/dsalgo)
 <!--END_SECTION:activity-->
 
 </details>
