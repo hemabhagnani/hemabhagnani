@@ -18,11 +18,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/codesankalp/dsalgo/issues/43) in [codesankalp/dsalgo](https://github.com/codesankalp/dsalgo)
+1. 💪 Opened PR [#28](https://github.com/amitsaini4556/DateYourEve/pull/28) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
 2. 🗣 Commented on [#43](https://github.com/codesankalp/dsalgo/issues/43) in [codesankalp/dsalgo](https://github.com/codesankalp/dsalgo)
-3. 🎉 Merged PR [#14](https://github.com/hemabhagnani/Brew_Crew/pull/14) in [hemabhagnani/Brew_Crew](https://github.com/hemabhagnani/Brew_Crew)
-4. ❌ Reopened PR [#43](https://github.com/codesankalp/dsalgo/pull/43) in [codesankalp/dsalgo](https://github.com/codesankalp/dsalgo)
-5. ❌ Closed PR [#43](https://github.com/codesankalp/dsalgo/pull/43) in [codesankalp/dsalgo](https://github.com/codesankalp/dsalgo)
+3. 🗣 Commented on [#43](https://github.com/codesankalp/dsalgo/issues/43) in [codesankalp/dsalgo](https://github.com/codesankalp/dsalgo)
+4. 🎉 Merged PR [#14](https://github.com/hemabhagnani/Brew_Crew/pull/14) in [hemabhagnani/Brew_Crew](https://github.com/hemabhagnani/Brew_Crew)
+5. ❌ Reopened PR [#43](https://github.com/codesankalp/dsalgo/pull/43) in [codesankalp/dsalgo](https://github.com/codesankalp/dsalgo)
 <!--END_SECTION:activity-->
 
 </details>
