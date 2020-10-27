@@ -18,10 +18,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/amitsaini4556/DateYourEve/issues/29) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
-2. 💪 Opened PR [#29](https://github.com/amitsaini4556/DateYourEve/pull/29) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
-3. 💪 Opened PR [#28](https://github.com/amitsaini4556/DateYourEve/pull/28) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
-4. 🗣 Commented on [#43](https://github.com/codesankalp/dsalgo/issues/43) in [codesankalp/dsalgo](https://github.com/codesankalp/dsalgo)
+1. 💪 Opened PR [#33](https://github.com/amitsaini4556/DateYourEve/pull/33) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
+2. 🗣 Commented on [#29](https://github.com/amitsaini4556/DateYourEve/issues/29) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
+3. 💪 Opened PR [#29](https://github.com/amitsaini4556/DateYourEve/pull/29) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
+4. 💪 Opened PR [#28](https://github.com/amitsaini4556/DateYourEve/pull/28) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
 5. 🗣 Commented on [#43](https://github.com/codesankalp/dsalgo/issues/43) in [codesankalp/dsalgo](https://github.com/codesankalp/dsalgo)
 <!--END_SECTION:activity-->
 
