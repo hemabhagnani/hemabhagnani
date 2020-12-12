@@ -18,11 +18,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#43](https://github.com/amitsaini4556/DateYourEve/issues/43) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
-2. 🎉 Merged PR [#44](https://github.com/amitsaini4556/DateYourEve/pull/44) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
-3. 💪 Opened PR [#44](https://github.com/amitsaini4556/DateYourEve/pull/44) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
-4. ❗️ Opened issue [#43](https://github.com/amitsaini4556/DateYourEve/issues/43) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
-5. 🎉 Merged PR [#41](https://github.com/amitsaini4556/DateYourEve/pull/41) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
+1. 🎉 Merged PR [#46](https://github.com/amitsaini4556/DateYourEve/pull/46) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
+2. 🎉 Merged PR [#45](https://github.com/amitsaini4556/DateYourEve/pull/45) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
+3. ❗️ Closed issue [#26](https://github.com/amitsaini4556/DateYourEve/issues/26) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
+4. 💪 Opened PR [#45](https://github.com/amitsaini4556/DateYourEve/pull/45) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
+5. ❗️ Closed issue [#43](https://github.com/amitsaini4556/DateYourEve/issues/43) in [amitsaini4556/DateYourEve](https://github.com/amitsaini4556/DateYourEve)
 <!--END_SECTION:activity-->
 
 </details>
